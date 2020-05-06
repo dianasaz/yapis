@@ -1,0 +1,33 @@
+{
+Print("program4")
+el1 = "element1"
+el2 = "element2"
+el3 = "element3"
+l1
+Add(l1,el1)
+Add(l1,el2)
+If(Contains(l1,el1)){
+	If(Contains(l1,el3)){
+	} Else {
+	funck1(l1)
+	}
+}
+}
+Void funck1(List l) {
+If(Size(l)>0){
+If(Size(l)==2){
+el1 = "1"
+el2 = "1"
+If(el1==el2){
+Set s = l
+If(s==l){
+Print("Complete")
+}Else{
+Print("No complete")
+}
+}
+}
+}Else{
+Print("eto nikogda ne vipolnitsya")
+}
+}

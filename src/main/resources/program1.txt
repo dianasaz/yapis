@@ -1,0 +1,6 @@
+{
+Print("program1")
+e = "privet"
+Print("Print element e:")
+Print(e)
+}
